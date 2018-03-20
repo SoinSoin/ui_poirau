@@ -1,0 +1,43 @@
+body{
+    overflow: visible;
+}
+
+.navbar{
+    background: #E1EFE0;
+    height:6rem;
+    display: flex;
+    flex-wrap: wrap;
+}
+.imgsize{
+    width: 10rem;
+    height:7rem;
+}
+.iconsize{
+    font-size: 3rem;
+    color:#7DAB7A;
+}
+.line{
+    line-height: 1;
+}
+.color{
+    color:#7DAB7A;
+}
+#myTab{
+    background: rgba(192, 189, 189, 0.2);
+}
+.text-center{
+    background: rgba(192, 189, 189, 0.2);
+}
+#test{
+    background: transparent;    
+}
+.cl{
+    color: tomato;
+}
+
+.lng{
+    width: 9rem;
+}
+#inputGroupSelect01{
+    width:90%;
+}
